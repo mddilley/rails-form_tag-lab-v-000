@@ -12,7 +12,6 @@ class StudentsController < ApplicationController
   end
 
   def create
-
     @params = params
   end
 
